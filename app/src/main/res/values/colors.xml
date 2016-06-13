@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_transparent">#50700d39</color>
+    <color name="green_transparent">#50375a1f</color>
+    <color name="blue_transparent">#50293576</color>
+    <color name="red_transparent">#507f3907</color>
+    <color name="purple_transparent">#50432677</color>
+    <color name="holo_red_light_transparent">#50ff4444</color>
+    <color name="orange_transparent">#50cc4800</color>
+    <color name="black_transparent">#50000000</color>
+
+    <color name="pink_ntransparent">#aa700d39</color>
+    <color name="green_ntransparent">#aa375a1f</color>
+    <color name="blue_ntransparent">#aa293576</color>
+    <color name="red_ntransparent">#aa7f3907</color>
+    <color name="purple_ntransparent">#aa432677</color>
+    <color name="holo_red_light_ntransparent">#aaff4444</color>
+    <color name="orange_ntransparent">#aacc4800</color>
+    <color name="black_ntransparent">#aa000000</color>
+
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="light_black">#504f4f</color>
+    <color name="black">#000000</color>
+    <color name="blue">#00abea</color>
+    <color name="white">#ffffff</color>
+</resources>

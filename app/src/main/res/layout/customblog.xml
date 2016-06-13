@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="#fff"
+    android:descendantFocusability="blocksDescendants">
+
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="80dp"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:id="@+id/linearLayout">-->
+
+        <!-- Thumbnail Image -->
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/imMovie"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginRight="8dp" />
+
+        <!--Movie Title-->
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imMovie"
+            android:layout_toRightOf="@+id/imMovie"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:text="Title"/>
+
+        <!--<WebView-->
+        <!--android:id="@+id/tvTitle"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignTop="@+id/imMovie"-->
+        <!--android:layout_toRightOf="@+id/imMovie"-->
+        <!--android:textSize="10sp"-->
+        <!--android:textStyle="bold"-->
+        <!--/>-->
+
+        <!-- Rating -->
+        <TextView
+            android:id="@+id/tvRating"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvTitle"
+            android:layout_toRightOf="@id/imMovie"
+            android:layout_marginTop="1dip"
+            android:textSize="12sp"
+            android:text="Excerpt Content"/>
+
+
+    <!--&lt;!&ndash; Rating &ndash;&gt;-->
+    <!--<TextView-->
+        <!--android:id="@+id/tvRating"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_below="@id/linearLayout"-->
+        <!--android:layout_marginTop="1dip"-->
+        <!--android:textSize="12sp"-->
+        <!--android:text="Excerpt Content"/>-->
+
+    <!--<WebView-->
+    <!--android:id="@+id/tvRating"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_below="@id/linearLayout"-->
+    <!--android:layout_marginTop="1dip"-->
+    <!--android:textSize="8sp"-->
+    <!--android:background="#ccc"-->
+    <!--/>-->
+
+    <!--&lt;!&ndash; Genre &ndash;&gt;-->
+    <!--<TextView-->
+    <!--android:id="@+id/genre"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_below="@id/rating"-->
+    <!--android:layout_marginTop="5dp"-->
+    <!--android:layout_toRightOf="@+id/imMovie"-->
+    <!--android:textColor="@color/genre"-->
+    <!--android:textSize="@dimen/genre" />-->
+
+    <!--&lt;!&ndash; Release Year &ndash;&gt;-->
+    <!--<TextView-->
+    <!--android:id="@+id/releaseYear"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignParentBottom="true"-->
+    <!--android:layout_alignParentRight="true"-->
+    <!--android:textColor="@color/year"-->
+    <!--android:textSize="@dimen/year" />-->
+
+</RelativeLayout>

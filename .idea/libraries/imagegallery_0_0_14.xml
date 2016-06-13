@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="imagegallery-0.0.14">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.lawloretienne/imagegallery/0.0.14/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.lawloretienne/imagegallery/0.0.14/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lawloretienne/imagegallery/0.0.14/fabbfb275d2deddd28bff1ece6eb1133829a330c/imagegallery-0.0.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

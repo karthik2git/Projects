@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#ffffff"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="165dp"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/first"
+        android:background="#336e7b"
+        android:layout_alignParentStart="true">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:id="@+id/imageView6"
+            android:background="@drawable/company_logo"
+            android:layout_marginLeft="18dp"
+            android:layout_marginStart="18dp"
+            android:layout_marginTop="15dp"/>
+
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3E SOFTWARE SOLUTIONS"
+            android:layout_marginRight="10dp"
+            android:id="@+id/textView22"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:layout_alignTop="@+id/imageView6"
+            android:layout_alignRight="@+id/leftSeparatorOne"
+            android:layout_alignEnd="@+id/leftSeparatorOne"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="24, CMH Road, Indira Nagar II Stage"
+            android:id="@+id/textView23"
+            android:textSize="15sp"
+            android:layout_marginTop="12dp"
+            android:textColor="#ffffff"
+            android:layout_below="@+id/textView22"
+            android:layout_alignLeft="@+id/textView22"
+            android:layout_alignStart="@+id/textView22"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bangalore, Karnataka 560038, India"
+            android:id="@+id/textView24"
+            android:textSize="15sp"
+            android:layout_marginTop="2dp"
+            android:textColor="#ffffff"
+            android:layout_below="@+id/textView23"
+            android:layout_alignLeft="@+id/textView23"
+            android:layout_alignStart="@+id/textView23"/>
+
+        <View
+            android:id="@+id/leftSeparatorOne"
+            android:layout_width="300dp"
+            android:layout_height="1dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="110dp"
+            android:layout_weight="1"
+            android:background="#ffffff"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" +91 9916832878"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:id="@+id/call"
+            style="@style/AudioFileInfoOverlayText"
+            android:layout_marginTop="7dp"
+            android:layout_below="@+id/leftSeparatorOne"
+            android:layout_toRightOf="@+id/phoneimage"
+            android:layout_toEndOf="@+id/phoneimage"/>
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:id="@+id/phoneimage"
+            style="@style/AudioFileInfoOverlayText"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="9dp"
+            android:background="@drawable/phone"
+            android:layout_alignTop="@+id/leftSeparatorOne"/>
+
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_below="@id/first"
+        android:layout_gravity="center_vertical"
+        android:fillViewport="true"><RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ccc">
+
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/twitter"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="0dp"
+            app:cardCornerRadius="2dp"
+            app:cardElevation="4dp"
+            app:cardBackgroundColor="#ffffff"
+            android:background="#ffffff">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="8dp"
+                android:paddingRight="2dp"
+                android:id="@+id/imageView7"
+                android:background="@drawable/mail"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="hello@3esofttech.com"
+                android:id="@+id/textView26"
+                android:layout_marginLeft="30dp"
+                android:paddingLeft="20dp"
+                android:layout_gravity="center"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"/>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/facebook"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:layout_below="@id/twitter"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            app:cardCornerRadius="2dp"
+            app:cardElevation="4dp"
+            app:cardBackgroundColor="#ffffff"
+            android:background="#ffffff">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="8dp"
+                android:paddingRight="2dp"
+                android:id="@+id/imageView8"
+                android:background="@drawable/facebook"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="Facebook/Software3E"
+                android:id="@+id/textView27"
+                android:paddingLeft="20dp"
+                android:layout_marginLeft="46dp"
+                android:layout_gravity="center"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"/>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/mail"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:layout_below="@id/facebook"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            app:cardCornerRadius="2dp"
+            app:cardElevation="4dp"
+            app:cardBackgroundColor="#ffffff"
+            android:background="#ffffff">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="8dp"
+                android:paddingRight="2dp"
+                android:id="@+id/imageView9"
+                android:background="@drawable/twitter"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="Twitter/Software3E"
+                android:layout_marginLeft="35dp"
+                android:id="@+id/textView28"
+                android:paddingLeft="40dp"
+                android:layout_gravity="center"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"/>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/linkedin"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:layout_below="@id/mail"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            app:cardCornerRadius="2dp"
+            app:cardElevation="4dp"
+            app:cardBackgroundColor="#ffffff"
+            android:background="#ffffff">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginLeft="22dp"
+                android:paddingRight="2dp"
+                android:layout_marginTop="8dp"
+                android:id="@+id/imageView10"
+                android:background="@drawable/linkedin"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="Linkedin"
+                android:id="@+id/textView29"
+                android:paddingLeft="10dp"
+                android:layout_gravity="center"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"/>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/map"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:layout_below="@id/linkedin"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="5dp"
+            app:cardCornerRadius="2dp"
+            app:cardElevation="4dp"
+            app:cardBackgroundColor="#ffffff"
+            android:background="#ffffff">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginLeft="22dp"
+                android:paddingRight="2dp"
+                android:layout_marginTop="8dp"
+                android:id="@+id/imageView111"
+                android:background="@drawable/map"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="Map"
+                android:id="@+id/textView30"
+                android:layout_gravity="center"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"/>
+
+        </android.support.v7.widget.CardView>
+
+    </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
