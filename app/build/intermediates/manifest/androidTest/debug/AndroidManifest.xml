@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.naman14.newsstand.test">
+    package="com.eeesoft.eeeapp.test">
 
     <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="23" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.naman14.newsstand"
+                     android:targetPackage="com.eeesoft.eeeapp"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.naman14.newsstand"/>
+                     android:label="Tests for com.eeesoft.eeeapp"/>
 </manifest>

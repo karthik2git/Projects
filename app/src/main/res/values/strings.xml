@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">3ESoftwareSolution</string>
+    <string name="app_name">3ESoftwareSolutions</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="actionbar_title">3E Software Solution</string>
@@ -19,5 +19,7 @@
     <string name="title_activity_home_carousel_view">HomeCarouselViewActivity</string>
     <string name="title_activity_team3_e">Team3EActivity</string>
     <string name="view_gallery">View Gallery</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_policy">Policy</string>
 
 </resources>

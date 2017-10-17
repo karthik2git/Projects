@@ -24,6 +24,10 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_fab_out.xml"
     },
     {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_enter.xml"
     },
@@ -62,5 +66,9 @@
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha.xml",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\anim\\alpha.xml"
     }
 ]

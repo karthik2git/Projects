@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.naman14.newsstand">
+    package="com.eeesoft.eeeapp">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <uses-feature android:name="android.hardware.telephony" />
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
-        android:name=".AppController"
+        android:name="com.eeesoft.eeeapp.AppController"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
-        android:label="@string/app_name"
         android:theme="@style/TransparentTheme">
         <activity
-            android:name=".MainActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:label="@string/app_name">
+            android:name="com.eeesoft.eeeapp.SplashActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -22,38 +27,71 @@
         </activity>
         <activity
             android:name="com.etiennelawlor.imagegallery.library.activities.ImageGalleryActivity"
-            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:configChanges="orientation"
             android:label=""
+            android:screenOrientation="portrait"
             android:theme="@style/ImageGalleryTheme" />
         <activity
-            android:name=".ContactUs"
-            android:label=" " />
+            android:name="com.eeesoft.eeeapp.ContactUs"
+            android:configChanges="orientation"
+            android:label=" "
+            android:screenOrientation="portrait" />
         <activity
-            android:name=".ContactUsList"
-            android:label=" " />
-        <activity android:name=".OnMaP" />
-        <activity android:name=".CardViewActivity" />
+            android:name="com.eeesoft.eeeapp.ContactUsList"
+            android:configChanges="orientation"
+            android:label=" "
+            android:screenOrientation="portrait" />
         <activity
-            android:name=".Content"
-            android:label="@string/title_activity_content" />
+            android:name="com.eeesoft.eeeapp.OnMaP"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
         <activity
-            android:name=".GalleryAct"
-            android:label="@string/title_activity_gallery" />
+            android:name="com.eeesoft.eeeapp.CardViewActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
         <activity
-            android:name=".Profile"
-            android:label="Profile" />
+            android:name="com.eeesoft.eeeapp.Content"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_content"
+            android:screenOrientation="portrait" />
         <activity
-            android:name=".Blogs"
-            android:label="@string/title_activity_blogs" />
+            android:name="com.eeesoft.eeeapp.GalleryAct"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_gallery"
+            android:screenOrientation="portrait" />
         <activity
-            android:name=".Blog"
-            android:label="@string/title_activity_blog" />
+            android:name="com.eeesoft.eeeapp.Profile"
+            android:configChanges="orientation"
+            android:label="Profile"
+            android:screenOrientation="portrait" />
         <activity
-            android:name=".HomeCarouselViewActivity"
-            android:label="@string/title_activity_home_carousel_view" />
+            android:name="com.eeesoft.eeeapp.Blogs"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_blogs"
+            android:screenOrientation="portrait" />
         <activity
-            android:name=".Team3EActivity"
-            android:label="@string/title_activity_team3_e"></activity>
+            android:name="com.eeesoft.eeeapp.Blog"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_blog"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.eeesoft.eeeapp.HomeCarouselViewActivity"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_home_carousel_view"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.eeesoft.eeeapp.Team3EActivity"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_team3_e"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.eeesoft.eeeapp.MainActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.eeesoft.eeeapp.Policy"
+            android:label="@string/title_activity_policy"></activity>
     </application>
 
 </manifest>

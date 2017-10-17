@@ -28,6 +28,10 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\reachus.png",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable-mdpi\\reachus.png"
+    },
+    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
@@ -84,12 +88,20 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\share.png",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable-mdpi\\share.png"
+    },
+    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\policy.png",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable-mdpi\\policy.png"
     },
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
@@ -140,6 +152,10 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\contactus.png",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable-mdpi\\contactus.png"
+    },
+    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
@@ -178,6 +194,10 @@
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\profile.png",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable-mdpi\\profile.png"
     },
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",

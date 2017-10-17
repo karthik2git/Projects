@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
-    tools:context="com.naman14.newsstand.MainActivity"
+    tools:context="com.eeesoft.eeeapp.MainActivity"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <WebView

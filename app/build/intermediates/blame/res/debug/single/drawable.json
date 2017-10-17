@@ -4,10 +4,6 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\multikart.jpg"
     },
     {
-        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
-        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\share.png"
-    },
-    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.jpardogo.materialtabstrip\\library\\1.0.6\\res\\drawable\\background_tab.xml"
     },
@@ -34,6 +30,10 @@
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_img.jpg",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\blog_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_screen.jpg",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\home_screen.jpg"
     },
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\magento_open_source_ecommerce.jpg",
@@ -96,6 +96,10 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\wookartlms.png"
     },
     {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\company.png",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\company.png"
+    },
+    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\moodle_mobile_app.png",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\moodle_mobile_app.png"
     },
@@ -124,6 +128,10 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\chandan.jpg"
     },
     {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dexter_talent_labs.png",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\dexter_talent_labs.png"
+    },
+    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook.png",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\facebook.png"
     },
@@ -136,6 +144,10 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\company_85.jpg",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\company_85.jpg"
+    },
+    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jagadish.jpg",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\jagadish.jpg"
     },
@@ -146,6 +158,10 @@
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\instamojo.png",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\instamojo.png"
+    },
+    {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\solutions.jpg",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\solutions.jpg"
     },
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divas.png",
@@ -162,6 +178,10 @@
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\solutions_85.jpg",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\solutions_85.jpg"
     },
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
@@ -196,20 +216,8 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\ecourses.jpg"
     },
     {
-        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.jpg",
-        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\home.jpg"
-    },
-    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratecard.png",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\ratecard.png"
-    },
-    {
-        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dexter_talent_labs.jpg",
-        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\dexter_talent_labs.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contactus.png",
-        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\contactus.png"
     },
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linkedin.png",
@@ -224,16 +232,16 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile.png",
-        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\profile.png"
-    },
-    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\innoexts.png",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\innoexts.png"
     },
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history.png",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\demos_85.jpg",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\demos_85.jpg"
     },
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
@@ -336,10 +344,6 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\demos.jpg"
     },
     {
-        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customer.jpg",
-        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\customer.jpg"
-    },
-    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
@@ -398,6 +402,10 @@
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edukart.jpg",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\edukart.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_img_85.jpg",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\drawable\\blog_img_85.jpg"
     },
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\moodlew.gif",

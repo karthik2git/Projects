@@ -8,6 +8,10 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_policy.xml",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\layout\\activity_policy.xml"
+    },
+    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
@@ -112,12 +116,12 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\layout\\list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
-        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\layout\\contact_us.xml"
-    },
-    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\layout\\contact_us.xml"
     },
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
@@ -208,6 +212,10 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\layout\\fragment_scrollview.xml"
     },
     {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\backrepeat.xml",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\layout\\backrepeat.xml"
+    },
+    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_full_screen_image_gallery.xml",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.github.lawloretienne\\imagegallery\\0.0.14\\res\\layout\\activity_full_screen_image_gallery.xml"
     },
@@ -234,6 +242,10 @@
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -296,12 +308,12 @@
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile.xml",
-        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\layout\\profile.xml"
-    },
-    {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile.xml",
+        "source": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\src\\main\\res\\layout\\profile.xml"
     },
     {
         "merged": "C:\\Users\\Karthik\\Desktop\\satish3e-eeeapp-5889c570461c\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customblog.xml",
